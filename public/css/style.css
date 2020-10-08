@@ -1,0 +1,16 @@
+.selected{
+	background-color: #f3f3f3;
+}
+.select2-container--default .select2-selection--single{
+	border: 1px solid #d1d3e2 !important;
+}
+.select2-container .select2-selection--single{
+	height: calc(1.5em + .75rem + 2px) !important;
+}
+.select2-container .select2-selection--single .select2-selection__rendered{
+	padding: .375rem .75rem !important;
+	line-height: inherit !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+	top: 5px !important;
+}
